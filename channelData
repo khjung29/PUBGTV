@@ -15,10 +15,16 @@
       "item" : [
 { "title" : "배그튜브 - 배틀그라운드 하이라이트", "id" : "UClb5g-Q-C4-AtwQTolXZf0g", "img" : "", "sort" : "1"},
 { "title" : "뜨뜨뜨뜨", "id" : "UCHxKSivB6JLZ1SEMdxd1fAg", "img" : "", "sort" : "2"},
-{ "title" : "더헬", "id" : "PL2sOMiM_ez2pLl3UEkI5UVqhBg6VsV_Nx", "img" : "", "sort" : "3"},
+{ "title" : "더헬", "id" : "UCRTRG3sr8my7ONpSQNruU2A", "img" : "", "sort" : "3"},
 { "title" : "정수삼촌", "id" : "UC7dzdKkGEXA-AN_8MpuFo8g", "img" : "", "sort" : "4"},
 { "title" : "배틀그라운드 롤큐", "id" : "UCigPeNf_uHiODmCRns_92Xw", "img" : "", "sort" : "5"},
-{ "title" : "보겸 TV", "id" : "bokyemtv", "img" : "", "sort" : "6"}
+{ "title" : "보겸 TV", "id" : "UCu9BCtGIEr73LXZsKmoujKw", "img" : "", "sort" : "6"},
+{ "title" : "군림보", "id" : "UCN5oT4zGJX-_H6pE5isAEeg", "img" : "", "sort" : "7"},
+{ "title" : "핫스", "id" : "UCpn9dP1b5BhBsU9SduEz1hA", "img" : "", "sort" : "8"},
+{ "title" : "킴성태TV", "id" : "UCAaLhok91QDrweyuDRsmjqQ", "img" : "", "sort" : "9"},
+{ "title" : "배그TV- 배틀그라운드 하이라이트", "id" : "UCb7DiMpyCaKjMM04Eo2qyfw", "img" : "", "sort" : "10"},
+{ "title" : "배그하이- BATTLEGROUND Highlight", "id" : "UCywfwq5l5g6SyQW_uKUsDCg", "img" : "", "sort" : "11"},
+{ "title" : "OGO TV", "id" : "UCC8YCCOTomCf_WLZFMiSYHw", "img" : "", "sort" : "12"}
 
       ]
     }    
